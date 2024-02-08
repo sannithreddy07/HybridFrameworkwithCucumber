@@ -1,0 +1,13 @@
+StepDefinition2\LoginpageBackground.class
+Pagefactory\Loginpage_PF.class
+Pagefactory\Logoutpage_PF.class
+StepDefinitions\LoginDemoSteps.class
+StepDefinitions\Loginpage_Hooks.class
+Runner\TestrunnerHooks.class
+Runner\Tagstestrunner.class
+Runner\TestRunner.class
+Pages\Loginpage_POM.class
+StepDefinitions\LoginDemoSteps3_PF.class
+Runner\TestrunnerBckgrnd.class
+StepDefinitions\LoginDemoSteps2_POM.class
+StepDefinitions\SearchFunctionality.class
